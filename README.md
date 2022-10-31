@@ -17,10 +17,10 @@ ___
 - [Python](https://www.python.org/)
 ___
 ## Modules and packages
-- [VKBottle](#https://vkbottle.readthedocs.io/ru/latest/)
-- [psycopg2](#https://www.psycopg.org/docs/)
-- [smtplib](#https://docs.python.org/3/library/smtplib.html)
-- [datetime](#https://docs.python.org/3/library/datetime.html)
+- [VKBottle](https://vkbottle.readthedocs.io/ru/latest/)
+- [psycopg2](https://www.psycopg.org/docs/)
+- [smtplib](https://docs.python.org/3/library/smtplib.html)
+- [datetime](https://docs.python.org/3/library/datetime.html)
 ___
 ## Setting Dependencies
 It's simple - use the console command 
